@@ -6,6 +6,4 @@
 |4.|Wrong PDXC Environment|The Environment provided devtst is not a valid option|
 |5.|Wrong PDXC Credentials|Getting error response from pdxc api with status code:403|
 |6.|Connectivity Issue |Connection error occured|
-|7.|domainName|"domainName"|
-|9.|category|Wrapper-Spectrum|
-|10.|application|0x10000|
+
