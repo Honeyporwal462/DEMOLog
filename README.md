@@ -1,6 +1,6 @@
 |#|Log Error Scanerio|Log Error Description|
 |--|--|--|
-|1.|eventsourcesendingserver|"spectrumFQDN"|
+|1.|Wrong CA OneClick Server Credentials |Getting error response from spectrum server with status code:503|
 |2.|eventsourceexternalid|0x11f52|
 |3.|severity|0x11f56|
 |4.|title|0x12b4c|
