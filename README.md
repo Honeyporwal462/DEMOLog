@@ -1,11 +1,11 @@
 |#|Log Error Scanerio|Log Error Description|
 |--|--|--|
-|1.|Wrong CA OneClick Server Credentials |Getting error response from spectrum server with status code:503|
-|2.|eventsourceexternalid|0x11f52|
-|3.|severity|0x11f56|
-|4.|title|0x12b4c|
-|5.|node|0x1006e|
-|6.|relatedcihints|0x12d7f|
+|1.|Wrong CA OneClick Server Port |Getting error response from OneClick server with status code:503|
+|2.|Wrong CA OneClick Server Ip|Connection error occured|
+|3.|Wrong CA OneClick Server Credentials|Getting error response from OneClick Server with status code:401|
+|4.|Wrong PDXC Environment|The Environment provided devtst is not a valid option|
+|5.|Wrong PDXC Credentials|Getting error response from pdxc api with status code:403|
+|6.|Connectivity Issue |Connection error occured|
 |7.|domainName|"domainName"|
 |9.|category|Wrapper-Spectrum|
 |10.|application|0x10000|
