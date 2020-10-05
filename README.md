@@ -1,5 +1,5 @@
 |#|Log Error Scanerio|Log Error Description|
-|--|--|--|--|--|
+|--|--|--|
 |1.|eventsourcesendingserver|"spectrumFQDN"|
 |2.|eventsourceexternalid|0x11f52|
 |3.|severity|0x11f56|
