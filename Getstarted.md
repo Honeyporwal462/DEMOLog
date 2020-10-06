@@ -38,7 +38,7 @@ Python 3.7.2
 
 3. Download [Client-Side Wrappers](https://github.dxc.com/Platform-DXC/hybrid-wrapper/tree/master/src/ca_spectrum/client-side-wrapper) and unzip it in the same location where virtual environment(spectrum_venv) is set up.
 
-4. Refer [config.yaml](https://github.dxc.com/Platform-DXC/hybrid-wrapper/tree/master/src/ca_spectrum/client-side-wrapper/config.yaml) Wrapper script contains config.yaml which is used to configure severity mapping, incident category mapping and log file location.So update this file as per as client need.
+4. Wrapper script contains [config.yaml](https://github.dxc.com/Platform-DXC/hybrid-wrapper/tree/master/src/ca_spectrum/client-side-wrapper/config.yaml) which is used to configure severity mapping, incident category mapping and log file location.So update this file as per as Customer need.
 > In severity mapping, key refers to CA OneClick Server severities and value refers to PDXC severities.<br>
 > in Incident category, Mapping key refers to alert title and values refers to PDXC incident category. It also contains a default value which will be used if alert title will not present in it.<br>
 > logfiledirectory used to provide the log file location. If it's not define then the log file will be created in the same location where scripts are present.
